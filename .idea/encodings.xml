@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Encoding" useUTFGuessing="true" native2AsciiForPropertiesFiles="false" />
+  <component name="Encoding" useUTFGuessing="false" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/src/models/Keyword.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/models/NetSong.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/TestDataResolver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/test/TestMusicSearchEngine.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/utils/DataResolver.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/utils/ErrorHandler.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/utils/MusicSearchEngine.java" charset="GBK" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
 </project>
 
